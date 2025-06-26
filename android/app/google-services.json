@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778435851414",
+    "project_id": "educertify-f371e",
+    "storage_bucket": "educertify-f371e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778435851414:android:e395b55ba1510913317eb7",
+        "android_client_info": {
+          "package_name": "com.educertify.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNtVVbK6ENe4Yhn9AnIE4yX_VUre0tvTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
